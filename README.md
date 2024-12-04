@@ -53,10 +53,10 @@ Before running the project locally, ensure you have the following installed:
    ```
 5. Open your browser and navigate to ```http://localhost:3000.```
 
-**🌐 Live Demo**
+## 🌐 Live Demo
 Check out the live version of the application here: Promptopia Live
 
-**📂 Project Structure**
+## 📂 Project Structure
   ```
   Promptopia_Next/
 │
@@ -71,20 +71,20 @@ Check out the live version of the application here: Promptopia Live
 └── README.md          # Documentation
   ```
 
-**🚀 Deployment**
+## 🚀 Deployment
 This project is hosted on Vercel. For redeployment:
 
 1. Connect your repository to Vercel.
 2. Add the required environment variables in the Vercel dashboard.
 3. Deploy and preview changes live!
 
-**🌟 Future Enhancements**
+## 🌟 Future Enhancements
 - Add search functionality for prompts.
 - Enable categories and tags for better organization.
 - Implement a "Like" or "Bookmark" feature for prompts.
 - Add support for dark mode.
 
-**🧑‍💻 Contributing**
+## 🧑‍💻 Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch:
